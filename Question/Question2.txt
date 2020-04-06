@@ -1,0 +1,5 @@
+Khi tang nhiet do cua nuoc tu 0 do C den 4 do C thi?
+a. The tich nuoc giam
+b. The tich nuoc tang
+c. The tich nuoc khong doi
+d. 3 cau deu sai

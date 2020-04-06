@@ -1,0 +1,5 @@
+Nguoi Ai Cap co dai phat hien ra so Pi bang bao nhieu?
+a. 3,14
+b. 3,16
+c. 3,1415
+d. 0

@@ -1,0 +1,5 @@
+Mot gio co bao nhieu giay?
+a. 60
+b. 10
+c. 600
+d. 3600
